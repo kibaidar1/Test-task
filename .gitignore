@@ -1,0 +1,6 @@
+venv/
+*.log
+.pytest_cashe
+**/__pycache__/
+.idea/
+my_notes.txt
